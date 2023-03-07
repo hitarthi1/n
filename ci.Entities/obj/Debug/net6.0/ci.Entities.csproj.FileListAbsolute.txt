@@ -1,0 +1,14 @@
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\bin\Debug\net6.0\ci.Entities.deps.json
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\bin\Debug\net6.0\ci.Entities.runtimeconfig.json
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\bin\Debug\net6.0\ci.Entities.dll
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\bin\Debug\net6.0\ref\ci.Entities.dll
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\bin\Debug\net6.0\ci.Entities.pdb
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ci.Entities.csproj.AssemblyReference.cache
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ci.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ci.Entities.AssemblyInfoInputs.cache
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ci.Entities.AssemblyInfo.cs
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ci.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ci.Entities.dll
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ref\ci.Entities.dll
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ci.Entities.pdb
+C:\Users\pca190\Desktop\lat_ntier\ci.Entities\obj\Debug\net6.0\ci.Entities.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc2a77e7-437b-4520-994e-4226153bf0c5": {
+      "ProjectGuid": "dc2a77e7-437b-4520-994e-4226153bf0c5",
+      "DisplayName": "ci_ntier",
+      "ColorIndex": 0
+    },
+    "7a4f7131-5b95-4889-b3f9-d9db876c9eb7": {
+      "ProjectGuid": "7a4f7131-5b95-4889-b3f9-d9db876c9eb7",
+      "DisplayName": "ci.Entities",
+      "ColorIndex": 1
+    },
+    "21e111f5-2bd7-4131-a3c0-f43d3d2ea73a": {
+      "ProjectGuid": "21e111f5-2bd7-4131-a3c0-f43d3d2ea73a",
+      "DisplayName": "CI.Repo",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
